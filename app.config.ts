@@ -1,7 +1,7 @@
 export default defineAppConfig({
   alpine: {
     title: 'Pro Forma Futures',
-    description: 'The minimalist blog theme',
+    description: 'We are a mentoring program for high school students interested in finance and investing.',
     image: {
       src: '/social-card-preview.png',
       alt: 'An image showcasing my project.',
